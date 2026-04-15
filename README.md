@@ -149,15 +149,3 @@ This project uses a **Mock Binance Client** instead of real API integration.
 **Rutuja Sangar**
 
 ---
-
-## 📬 Submission Notes
-
-This project was built as part of a Python Developer assignment.
-It demonstrates:
-
-* Clean architecture
-* Input validation
-* Error handling
-* Logging practices
-
----
